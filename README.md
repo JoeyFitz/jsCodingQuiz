@@ -27,7 +27,7 @@ Previous UCSD Extension coursework and activities, GitHub, YouTube, codepen.io, 
 Screenshot of the deployed application
 ![Screen Shot 2021-07-06 at 5 01 07 PM](https://user-images.githubusercontent.com/50683782/124680725-d9b82600-de7b-11eb-8762-1021753acf60.png)
 
-URL of the deployed application --> https://joeyfitz.github.io/CodingQuiz/index.html
+URL of the deployed application --> https://joeyfitz.github.io/jsCodingQuiz/index.html
 
-URL of the GitHub repository --> https://github.com/JoeyFitz/CodingQuiz
+URL of the GitHub repository --> https://github.com/JoeyFitz/jsCodingQuiz
 
