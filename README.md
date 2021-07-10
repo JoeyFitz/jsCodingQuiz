@@ -1,4 +1,4 @@
-# CodingQuiz
+# jsCodingQuiz
 ## Description
 This repository contains the source code for a Javascript coding quiz web application. The quiz is timed and contains a leaderboard for high scores. An early assignment in my coding bootcamp curriculum, it forced me to put into practice some new js skills (appendChild, forEach, JSON.parse/stringify) and reinforce earlier learning objectives (createElement, innerHTML, setInterval, localStorage). It was also the first time I incorporated navigation to another HTML page developed for the application. I hope you enjoy taking the quiz as much as I did making it! 
 
